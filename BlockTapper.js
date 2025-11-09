@@ -1,5 +1,6 @@
 # Лицензия: MIT License
 # Версия: 1.0.0
+# Тип Variable: Mobile
 
 var blockTapperModule = new Module("Block Tapper", true, true, ModuleCategory.MISC);
 const tapsPerSecond = new SliderSetting("Тапы в секунду", [1.0, 0.5, 50.0, 0.5]);
